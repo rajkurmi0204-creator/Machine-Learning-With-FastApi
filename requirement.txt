@@ -1,0 +1,5 @@
+Fastapi
+uvicorn
+pandas 
+joblib
+scikit-learn == 1.9.1
